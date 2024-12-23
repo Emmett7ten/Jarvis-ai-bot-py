@@ -1,0 +1,15 @@
+This is an early-access version of the Jarvis AI voice assistant. Currently, it has a limited set of features, including:
+
+Voice Commands: Jarvis can listen to basic voice commands and respond accordingly.
+Google Search: Ask Jarvis to search for anything on Google, and it will fetch the results for you.
+Open Websites: Jarvis can open YouTube or Google in your default browser with a simple command.
+
+  Ongoing Updates: Jarvis will be continuously improved and updated with more features and smarter responses.
+
+
+
+  how to use. 1 unzip open cmd type pip install SpeechRecognition pip install pyttsx3 pip install wikipedia
+
+thats all.
+ 
+ 
